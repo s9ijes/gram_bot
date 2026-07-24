@@ -1,0 +1,21 @@
+# Файлы с секретами
+config.py
+.env
+*.env
+
+# Системные файлы
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Виртуальное окружение
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
